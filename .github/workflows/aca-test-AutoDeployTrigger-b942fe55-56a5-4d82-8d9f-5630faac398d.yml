@@ -8,7 +8,7 @@ on:
       [ main ]
     paths:
     - '**'
-    - '.github/workflows/aca-test-AutoDeployTrigger-621464aa-7ad2-49a3-95ce-d749dc26f21d.yml'
+    - '.github/workflows/aca-test-AutoDeployTrigger-b942fe55-56a5-4d82-8d9f-5630faac398d.yml'
 
   # Allow manual trigger 
   workflow_dispatch:

@@ -7,4 +7,4 @@ def index():
   
 @app.route('/greet')
 def say_hello():
-  return 'Hello from Server'
+  return 'Hello from Server, its working '
